@@ -15,17 +15,11 @@ Objective: Build a responsive website that contains an online reservation system
 
 ### Tech Stack:
 
-- HTML, CSS
-- JSX
-- React
+- HTML, CSS, Javascript and React
 
-### Third Party Libraries & APIs:
+### Third Party & APIs:
 
 - react-router-dom
 - react-responsive-carousel
 - Meta front-end table-booking API
-
-### Install and Run:
-
-- Run 'npm start' on the reserve-a-table folder
 
