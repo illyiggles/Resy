@@ -1,7 +1,7 @@
 # Little Lemon Restaurant
 
-Final capstone project for Meta Front-end developer program on Coursera.
-Objective: Build a responsive website that contains an online reservation system using React.
+Capstone project for Meta Front-end developer certificate on Coursera.
+Objective: Build a responsive website that contains an online reservation system.
 
 ## Screenshot
 
